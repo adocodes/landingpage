@@ -33,7 +33,7 @@ body {
  ul li{
   display: flex;
   padding: 20px;
-  padding-top: 20px;
+  padding-top: 25px;
   float: right;
   list-style-type: none;
   text-decoration: underline;
@@ -70,9 +70,11 @@ body {
 .logo img  {
   position: absolute;
    width: 130px;
-  top: 7px;
-  padding-bottom: 50px;
-  padding-left: 10px;
+  top: 0px;
+  margin: -10px;
+  
+  padding-bottom: px;
+  padding-left: -6px;
   
 }
  
